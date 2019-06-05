@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+.navigation{
+  padding: 0px !important;
+}
+
+.navigation .navbar{
+  background: #003366;
+
+}
+
+
+.navigation .navbar *{
+  color: white;
+
+}
